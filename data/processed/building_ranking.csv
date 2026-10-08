@@ -1,0 +1,9 @@
+"Building","Building_Type","Avg_Usage_Liters","Avg_Usage_Per_Person","Anomaly_Days","Anomaly_Pct","Wastage_Days","Excess_Liters","Waste_Risk_Level","Risk_Rank"
+"Hostel A","Hostel",29338,72.7,23,6.3,17,322288,"Medium",1
+"Academic Block","Academic",9533,13.5,54,14.8,47,133385,"High",2
+"Hostel B","Hostel",24862,72,13,3.6,10,132413,"Medium",3
+"Laboratory","Laboratory",4547,23.4,51,13.9,39,64317,"High",4
+"Canteen","Canteen",5898,9.4,27,7.4,19,54870,"Medium",5
+"Administration Block","Administration",932,40.6,72,19.7,51,26233,"High",6
+"Library","Library",2269,7.3,30,8.2,20,19694,"High",7
+"Sports Block","Sports",3694,23.7,13,3.6,8,12556,"Medium",8

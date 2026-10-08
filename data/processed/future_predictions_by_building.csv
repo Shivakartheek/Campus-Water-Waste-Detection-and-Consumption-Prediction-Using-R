@@ -1,0 +1,57 @@
+"Date","Building","Day_of_Week","Predicted_Usage_Liters"
+2025-01-01,"Academic Block","Wednesday",11468
+2025-01-02,"Academic Block","Thursday",11109
+2025-01-03,"Academic Block","Friday",11269
+2025-01-04,"Academic Block","Saturday",3531
+2025-01-05,"Academic Block","Sunday",1408
+2025-01-06,"Academic Block","Monday",11385
+2025-01-07,"Academic Block","Tuesday",11778
+2025-01-01,"Administration Block","Wednesday",1095
+2025-01-02,"Administration Block","Thursday",1096
+2025-01-03,"Administration Block","Friday",1075
+2025-01-04,"Administration Block","Saturday",585
+2025-01-05,"Administration Block","Sunday",307
+2025-01-06,"Administration Block","Monday",1115
+2025-01-07,"Administration Block","Tuesday",1092
+2025-01-01,"Canteen","Wednesday",6496
+2025-01-02,"Canteen","Thursday",6293
+2025-01-03,"Canteen","Friday",6268
+2025-01-04,"Canteen","Saturday",4671
+2025-01-05,"Canteen","Sunday",4069
+2025-01-06,"Canteen","Monday",6660
+2025-01-07,"Canteen","Tuesday",6189
+2025-01-01,"Hostel A","Wednesday",28401
+2025-01-02,"Hostel A","Thursday",28202
+2025-01-03,"Hostel A","Friday",28282
+2025-01-04,"Hostel A","Saturday",24124
+2025-01-05,"Hostel A","Sunday",24261
+2025-01-06,"Hostel A","Monday",28247
+2025-01-07,"Hostel A","Tuesday",28676
+2025-01-01,"Hostel B","Wednesday",24431
+2025-01-02,"Hostel B","Thursday",23993
+2025-01-03,"Hostel B","Friday",24095
+2025-01-04,"Hostel B","Saturday",20167
+2025-01-05,"Hostel B","Sunday",20259
+2025-01-06,"Hostel B","Monday",23749
+2025-01-07,"Hostel B","Tuesday",24322
+2025-01-01,"Laboratory","Wednesday",5378
+2025-01-02,"Laboratory","Thursday",5360
+2025-01-03,"Laboratory","Friday",5303
+2025-01-04,"Laboratory","Saturday",2000
+2025-01-05,"Laboratory","Sunday",783
+2025-01-06,"Laboratory","Monday",5361
+2025-01-07,"Laboratory","Tuesday",5452
+2025-01-01,"Library","Wednesday",2510
+2025-01-02,"Library","Thursday",2479
+2025-01-03,"Library","Friday",2463
+2025-01-04,"Library","Saturday",2019
+2025-01-05,"Library","Sunday",1075
+2025-01-06,"Library","Monday",2480
+2025-01-07,"Library","Tuesday",2494
+2025-01-01,"Sports Block","Wednesday",3240
+2025-01-02,"Sports Block","Thursday",3228
+2025-01-03,"Sports Block","Friday",3371
+2025-01-04,"Sports Block","Saturday",4347
+2025-01-05,"Sports Block","Sunday",3639
+2025-01-06,"Sports Block","Monday",3189
+2025-01-07,"Sports Block","Tuesday",3144
